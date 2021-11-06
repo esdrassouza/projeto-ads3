@@ -3,8 +3,10 @@
 
 function App() {
   return (
-   <div>
+   <div className="text-primary">
      <h1>Olá Mundo!</h1>
+
+
    </div>
   );
 }
